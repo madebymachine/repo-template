@@ -8,3 +8,4 @@ This repository serves as an example of how to structure a project hosted on
 ## Contents
 
 - Top-level README (this file)
+- [`.gitignore` template](.gitignore)
