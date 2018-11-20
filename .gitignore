@@ -1,2 +1,5 @@
 # macOS Desktop Services Store files
 .DS_Store
+
+# conventional-changelog-cli Docker image ID file
+changelog/image-id
