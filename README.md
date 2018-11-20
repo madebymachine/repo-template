@@ -11,6 +11,7 @@ This repository serves as an example of how to structure a project hosted on
 - [`.gitignore` template](.gitignore)
 - [Creative Commons CC0 1.0 Universal licence](LICENCE.md)
 - [Anti-code of conduct](CODE_OF_CONDUCT.md)
+- [Contributor guidelines](CONTRIBUTING.md)
 
 <hr>
 
